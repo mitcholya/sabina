@@ -1,0 +1,69 @@
+/*============    ШРИФТЫ    ===========*/
+
+@font-face {
+    font-family: 'ProximaNovaBlack';
+    src: url('fonts/ProximaNovaBlack.eot');
+    src: url('fonts/ProximaNovaBlack.eot') format('embedded-opentype'),
+         url('fonts/ProximaNovaBlack.woff2') format('woff2'),
+         url('fonts/ProximaNovaBlack.woff') format('woff'),
+         url('fonts/ProximaNovaBlack.ttf') format('truetype'),
+         url('fonts/ProximaNovaBlack.svg#ProximaNovaBlack') format('svg');
+}
+
+@font-face {
+    font-family: 'ArvoBoldItalic';
+    src: url('fonts/ArvoBoldItalic.eot');
+    src: url('fonts/ArvoBoldItalic.eot') format('embedded-opentype'),
+         url('fonts/ArvoBoldItalic.woff2') format('woff2'),
+         url('fonts/ArvoBoldItalic.woff') format('woff'),
+         url('fonts/ArvoBoldItalic.ttf') format('truetype'),
+         url('fonts/ArvoBoldItalic.svg#ArvoBoldItalic') format('svg');
+}
+
+
+
+
+/*============= MAIN SECTION ================*/
+
+header .sabina {
+    color: #ffffff;
+    font-size: 2em;
+    font-family: 'ArvoBoldItalic';
+}
+
+header .social {
+    color: #ffffff;
+    margin-top: 8px;
+}
+
+header .red {
+    background-color: #e04f3d;
+}
+
+header .photo {
+    color: #ffffff;
+    font-size: 2em;
+    font-family: 'ArvoBoldItalic';
+}
+
+
+
+@media(min-width:0px) and (max-width:320px) {
+	
+}
+
+@media(min-width:321px) and (max-width:480px) {
+    
+}
+
+@media(min-width:481px) and (max-width:768px) {
+	
+}
+
+@media(min-width:769px) and (max-width:992px) {
+
+}
+
+@media(min-width:993px) and (max-width:1200px) {
+	
+}
